@@ -6,7 +6,7 @@
 My creativity has never had limits and it never will. I take great pleasure in giving things an aesthetic perspective and a unique twist. A life philosophy I embrace is to seek challenges, think outside the box, and relish in the rewards.</p>
 </h3>
 <a href="https://www.linkedin.com/in/ramiro-joaquin-otero-frontend-js-css3-html5-graphic-designer/"><img alt="Static Badge" url="none" src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin"></a>
-<a href="wa.link/6y7jap"><img alt="Static Badge" url="none" src="https://img.shields.io/badge/-WhatsApp-white?logo=whatsapp"></a>  
+<a href="https://wa.me/+5492214958365"><img alt="Static Badge" url="none" src="https://img.shields.io/badge/-WhatsApp-white?logo=whatsapp"></a>  
 </div>
 
 ---
