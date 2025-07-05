@@ -5,7 +5,7 @@
 <h3>Graphic Designer and Front End Developer in continuous learning, with a strong knowledge of design tools. Passionate about technology and the digital realm. My main goal is to constantly educate myself in programming languages alongside my studies in Systems Engineering. I seek to challenge myself daily with new tasks, enjoying this lifestyle.
 My creativity has never had limits and it never will. I take great pleasure in giving things an aesthetic perspective and a unique twist. A life philosophy I embrace is to seek challenges, think outside the box, and relish in the rewards.</p>
 </h3>
-<a href="https://www.linkedin.com/in/ramiro-joaquin-otero-frontend-js-css3-html5-graphic-designer/"><img alt="Static Badge" url="none" src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/rama-otero-frontend/"><img alt="Static Badge" url="none" src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin"></a>
 <a href="https://wa.me/+5492214958365"><img alt="Static Badge" url="none" src="https://img.shields.io/badge/-WhatsApp-white?logo=whatsapp"></a>  
 </div>
 
